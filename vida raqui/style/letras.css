@@ -1,0 +1,10 @@
+.letras {
+    display: inline-block;
+    padding-left: 43px;
+}
+.status {
+    color: rgb(36, 36, 36);
+    padding-left: 60px;
+    font-family: Belgrano;
+    font-size: large;
+}

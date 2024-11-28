@@ -1,0 +1,17 @@
+@import url(style/body.css);
+@import url(style/logo.css);
+@import url(style/netflix.css);
+@import url(style/trailer.css);
+@import url(style/titulo.css);
+@import url(style/director.css);
+@import url(style/sinopse.css);
+@import url(style/letras.css);
+
+@font-face {
+    font-family: Voltaire-Frangela;
+    src: url(Voltaire-Frangela.ttf);
+    font-family: Bebas;
+    src: url(BebasNeue-Regular.ttf);
+    font-family: Belgrano;
+    src: url(Belgrano-Regular.ttf);
+}
